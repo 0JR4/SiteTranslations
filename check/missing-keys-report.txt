@@ -2,33 +2,15 @@ Locale key comparison report (source-based)
 ===========================================
 Source file: nl_NL.json
 Total source keys: 740
-Source keys missing in at least one file: 9
+Source keys missing in at least one file: 0
 
 Missing source keys by file
 ---------------------------
-de_DE.json: 9 missing
-  - cookiebeleid.s4_li5
-  - cookiebeleid.s4_note
-  - cookiebeleid.toc_auth
-  - privacy.s2_data6_text
-  - privacy.s2_data6_title
-  - privacy.s2_data7_text
-  - privacy.s2_data7_title
-  - privacy.s2_data8_text
-  - privacy.s2_data8_title
+de_DE.json: 0 missing
 
 en_US.json: 0 missing
 
-fr_FR.json: 9 missing
-  - cookiebeleid.s4_li5
-  - cookiebeleid.s4_note
-  - cookiebeleid.toc_auth
-  - privacy.s2_data6_text
-  - privacy.s2_data6_title
-  - privacy.s2_data7_text
-  - privacy.s2_data7_title
-  - privacy.s2_data8_text
-  - privacy.s2_data8_title
+fr_FR.json: 0 missing
 
 Extra keys not in source
 ------------------------
@@ -46,12 +28,4 @@ fr_FR.json: 3 extra
 
 Missing files by key
 --------------------
-cookiebeleid.s4_li5: de_DE.json, fr_FR.json
-cookiebeleid.s4_note: de_DE.json, fr_FR.json
-cookiebeleid.toc_auth: de_DE.json, fr_FR.json
-privacy.s2_data6_text: de_DE.json, fr_FR.json
-privacy.s2_data6_title: de_DE.json, fr_FR.json
-privacy.s2_data7_text: de_DE.json, fr_FR.json
-privacy.s2_data7_title: de_DE.json, fr_FR.json
-privacy.s2_data8_text: de_DE.json, fr_FR.json
-privacy.s2_data8_title: de_DE.json, fr_FR.json
+No missing keys detected. All files contain the same leaf keys.
