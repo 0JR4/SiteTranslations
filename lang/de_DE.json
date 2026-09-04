@@ -472,7 +472,10 @@
     "toc_what": "Was sind Cookies?",
     "toc_which": "Welche Kekse?",
     "twitter_description": "Lesen Sie die Cookie-Richtlinie von Hulpdienstvoertuigen Benelux. Erfahren Sie, welche Cookies wir verwenden und wie Sie Ihre Cookie-Einstellungen verwalten können.",
-    "twitter_title": "Cookie-Richtlinie – HulpdienstvoertuigenBenelux"
+    "twitter_title": "Cookie-Richtlinie – HulpdienstvoertuigenBenelux",
+    "s4_li5": "<strong>E-Mail-Registrierung:</strong> Benutzername, E-Mail-Adresse und gehashtes Passwort (bcrypt).",
+    "s4_note": "<i class=\"fas fa-shield-virus\" style=\"margin-right: 8px;\"></i> Authentifizierungscookies sind für den Betrieb des Anmeldesystems unbedingt erforderlich und fallen unter das berechtigte Interesse. Diese Cookies werden <strong>nicht</strong> für Tracking- oder Analysezwecke verwendet.",
+    "toc_auth": "Authentifizierung"
   },
   "error404": {
     "back_home": "Zurück nach Hause",
@@ -690,7 +693,13 @@
     "toc_sharing": "Weitergabe an Dritte",
     "toc_title": "Inhaltsverzeichnis",
     "twitter_description": "Lesen Sie, wie HulpdienstvoertuigenBenelux mit Ihren personenbezogenen Daten umgeht und welche Rechte Sie nach der DSGVO haben.",
-    "twitter_title": "Datenschutzrichtlinie – HulpdienstvoertuigenBenelux"
+    "twitter_title": "Datenschutzrichtlinie – HulpdienstvoertuigenBenelux",
+    "s2_data6_text": "E-Mail-Adresse, Benutzername und Profilfoto. Nur wenn Sie die Erlaubnis dazu über Google OAuth erteilen.",
+    "s2_data6_title": "Google-Login",
+    "s2_data7_text": "Benutzername, E-Mail-Adresse und Passwort (wird nur als bcrypt-Hash gespeichert, niemals in lesbarer Form). Nur wenn Sie sich registrieren oder per E-Mail anmelden.",
+    "s2_data7_title": "E-Mail-Konto",
+    "s2_data8_text": "Anzeigename, Copyright-Name für das Wasserzeichen und optionale Links zu Ihren Social-Media-Profilen. Bei der Teilnahme am Fotowettbewerb werden Ihr Benutzername und Ihr Avatar öffentlich angezeigt.",
+    "s2_data8_title": "Profilinformationen"
   },
   "profile": {
     "approved": "genehmigt",

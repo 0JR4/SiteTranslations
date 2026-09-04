@@ -472,7 +472,10 @@
     "toc_what": "Que sont les cookies ?",
     "toc_which": "Quels cookies ?",
     "twitter_description": "Lisez la politique en matière de cookies de Hulpdienstvoertuigen Benelux. Découvrez quels cookies nous utilisons et comment vous pouvez gérer vos préférences en matière de cookies.",
-    "twitter_title": "Politique en matière de cookies - HulpdienstvoertuigenBenelux"
+    "twitter_title": "Politique en matière de cookies - HulpdienstvoertuigenBenelux",
+    "s4_li5": "<strong>Inscription par e-mail :</strong> nom d'utilisateur, adresse e-mail et mot de passe haché (bcrypt).",
+    "s4_note": "<i class=\"fas fa-shield-virus\" style=\"margin-right: 8px;\"></i> Les cookies d'authentification sont strictement nécessaires au fonctionnement du système de connexion et relèvent de l'intérêt légitime. Ces cookies ne sont <strong>pas</strong> utilisés à des fins de suivi ou d'analyse.",
+    "toc_auth": "Authentification"
   },
   "error404": {
     "back_home": "Retour à la maison",
@@ -690,7 +693,13 @@
     "toc_sharing": "Partage avec des tiers",
     "toc_title": "Table des matières",
     "twitter_description": "Découvrez comment HulpdienstvoertuigenBenelux traite vos données personnelles et quels sont vos droits en vertu du RGPD.",
-    "twitter_title": "Politique de confidentialité - HulpdienstvoertuigenBenelux"
+    "twitter_title": "Politique de confidentialité - HulpdienstvoertuigenBenelux",
+    "s2_data6_text": "Adresse e-mail, nom d'utilisateur et photo de profil. Uniquement si vous donnez votre autorisation via Google OAuth.",
+    "s2_data6_title": "Connexion Google",
+    "s2_data7_text": "Nom d'utilisateur, adresse e-mail et mot de passe (stockés uniquement sous forme de hachage bcrypt, jamais sous forme lisible). Uniquement lorsque vous vous inscrivez ou vous connectez par e-mail.",
+    "s2_data7_title": "Compte de messagerie",
+    "s2_data8_text": "Nom d'affichage, nom de droit d'auteur pour le filigrane et liens facultatifs vers vos profils de réseaux sociaux. Lors de votre participation au concours photo, votre nom d'utilisateur et votre avatar seront affichés publiquement.",
+    "s2_data8_title": "Informations sur le profil"
   },
   "profile": {
     "approved": "approuvé",
