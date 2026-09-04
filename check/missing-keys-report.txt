@@ -11,10 +11,7 @@ de_DE.json: 3 missing
   - cookiebeleid.s4_note
   - cookiebeleid.toc_auth
 
-en_US.json: 3 missing
-  - cookiebeleid.s4_li5
-  - cookiebeleid.s4_note
-  - cookiebeleid.toc_auth
+en_US.json: 0 missing
 
 fr_FR.json: 3 missing
   - cookiebeleid.s4_li5
@@ -29,11 +26,7 @@ de_DE.json: 4 extra
   - cookiebeleid.toc_ga
   - privacy.s4_li6
 
-en_US.json: 4 extra
-  - cookiebeleid.cc_ga_desc
-  - cookiebeleid.cc_ga_title
-  - cookiebeleid.toc_ga
-  - privacy.s4_li6
+en_US.json: 0 extra
 
 fr_FR.json: 4 extra
   - cookiebeleid.cc_ga_desc
@@ -43,6 +36,6 @@ fr_FR.json: 4 extra
 
 Missing files by key
 --------------------
-cookiebeleid.s4_li5: de_DE.json, en_US.json, fr_FR.json
-cookiebeleid.s4_note: de_DE.json, en_US.json, fr_FR.json
-cookiebeleid.toc_auth: de_DE.json, en_US.json, fr_FR.json
+cookiebeleid.s4_li5: de_DE.json, fr_FR.json
+cookiebeleid.s4_note: de_DE.json, fr_FR.json
+cookiebeleid.toc_auth: de_DE.json, fr_FR.json
