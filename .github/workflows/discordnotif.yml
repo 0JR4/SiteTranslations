@@ -1,0 +1,16 @@
+name: PR to Discord
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send PR Notification
+        uses: ravsamhq/notify-discord-action@v2
+        with:
+          args: |
+            New Pull Request opened: ${{ github.event.pull_request.title }} (${{ github.event.pull_request.html_url }})
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_PR }}
