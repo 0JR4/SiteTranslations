@@ -264,7 +264,7 @@
     "hero_title": "Emergency Service Vehicles",
     "hero_subtitle": "The most complete and up-to-date information about emergency service vehicles",
     "logo_alt": "Hulpdienstvoertuigen BeNeLux Logo",
-    "search_placeholder": "Search an address",
+    "search_placeholder": "Search by address, license plate, call sign...",
     "filter_all_services": "All Emergency Services",
     "filter_all_regions": "All Regions",
     "loading": "Loading...",
