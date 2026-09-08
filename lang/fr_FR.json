@@ -199,7 +199,8 @@
     "file_invalid_type": "Seuls les fichiers JPG, PNG et WEBP sont autorises",
     "file_too_large": "depasse 25MB",
     "file_selected": "1 fichier selectionne",
-    "login_required_error": "Vous devez etre connecte."
+    "login_required_error": "Vous devez etre connecte.",
+    "theme_label": "Sujet:"
   },
   "home": {
     "meta_description": "La base de donnees la plus complete des vehicules de services d'urgence dans le Benelux. Decouvrez des milliers de voitures de police, camions de pompiers, ambulances, bateaux de sauvetage et plus encore des Pays-Bas, de Belgique et du Luxembourg. A jour, complete et gratuite a consulter. Recherchez par region, service ou plaque d'immatriculation.",
