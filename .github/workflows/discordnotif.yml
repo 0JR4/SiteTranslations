@@ -8,10 +8,13 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Send PR Notification
-        uses: ravsamhq/notify-discord-action@v2
-        with:
-          args: |
-            New Pull Request opened: ${{ github.event.pull_request.title }} (${{ github.event.pull_request.html_url }})
+      - name: Send PR Notification to Discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_PR }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+        run: |
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"content\": \"New Pull Request opened: **${PR_TITLE}**\n${PR_URL}\"}" \
+               "$DISCORD_WEBHOOK"
