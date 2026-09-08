@@ -1,16 +1,18 @@
 Locale key comparison report (source-based)
 ===========================================
 Source file: nl_NL.json
-Total source keys: 740
-Source keys missing in at least one file: 0
+Total source keys: 741
+Source keys missing in at least one file: 1
 
 Missing source keys by file
 ---------------------------
-de_DE.json: 0 missing
+de_DE.json: 1 missing
+  - fotowedstrijd.theme_label
 
 en_US.json: 0 missing
 
-fr_FR.json: 0 missing
+fr_FR.json: 1 missing
+  - fotowedstrijd.theme_label
 
 Extra keys not in source
 ------------------------
@@ -19,8 +21,7 @@ de_DE.json: 3 extra
   - cookiebeleid.cc_ga_title
   - cookiebeleid.toc_ga
 
-en_US.json: 1 extra
-  - fotowedstrijd.theme_label
+en_US.json: 0 extra
 
 fr_FR.json: 3 extra
   - cookiebeleid.cc_ga_desc
@@ -29,4 +30,4 @@ fr_FR.json: 3 extra
 
 Missing files by key
 --------------------
-No missing keys detected. All files contain the same leaf keys.
+fotowedstrijd.theme_label: de_DE.json, fr_FR.json
