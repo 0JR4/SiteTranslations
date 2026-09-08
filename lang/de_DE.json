@@ -199,7 +199,8 @@
     "file_invalid_type": "Nur JPG-, PNG- und WEBP-Dateien sind erlaubt",
     "file_too_large": "ist größer als 25MB",
     "file_selected": "1 Datei ausgewählt",
-    "login_required_error": "Du musst eingeloggt sein."
+    "login_required_error": "Du musst eingeloggt sein.",
+    "theme_label": "Thema:"
   },
   "home": {
     "meta_description": "Die vollständigste Datenbank für Einsatzfahrzeuge in den Benelux-Ländern. Entdecke tausende Polizeiautos, Feuerwehrfahrzeuge, Krankenwagen, Rettungsboote und mehr aus den Niederlanden, Belgien und Luxemburg. Aktuell, vollständig und kostenlos einsehbar. Suche nach Region, Dienst oder Kennzeichen.",
